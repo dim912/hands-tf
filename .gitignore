@@ -1,0 +1,16 @@
+# Default ignored files
+/.idea/workspace.xml
+
+.idea
+
+*.iml
+
+target
+
+*.iml
+/.idea/
+
+
+result
+
+*.pem
